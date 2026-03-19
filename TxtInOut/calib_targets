@@ -1,0 +1,25 @@
+calibration targets
+model information
+9			number of years in the SWAT+ simulation
+108			number of months in the SWAT+ simulation
+3287			number of days in the SWAT+ simulation
+streamflow - daily
+y			monthly streamflow target is active (y/n)
+1827			beginning month
+3287			ending month
+3			number of channels to include
+40			channel IDs...
+21
+37
+streamflow - monthly
+n			monthly streamflow target is active (y/n)
+groundwater head - daily
+n			groundwater head target is active (y/n)
+groundwater head - monthly
+y			groundwater head target is active (y/n)
+19			number of observation cells
+61			beginning month
+108			ending month
+2			number of cells to include
+5			cell IDs...
+19

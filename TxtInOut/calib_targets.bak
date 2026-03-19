@@ -1,0 +1,63 @@
+calibration targets
+streamflow - daily
+y			monthly streamflow target is active (y/n)
+366			beginning day
+1095			ending day
+2			number of channels to include
+1			channel IDs...
+80
+streamflow - monthly
+y			monthly streamflow target is active (y/n)
+13			beginning month
+36			ending month
+2			number of channels to include
+1			channel IDs...
+80
+groundwater head - daily
+y			groundwater head target is active (y/n)
+8			number of observation cells
+366			beginning day
+1095			ending day
+3			number of cells to include
+2			cell IDs...
+5
+8
+groundwater head - monthly
+y			groundwater head target is active (y/n)
+8			number of observation cells
+13			beginning month
+36			ending month
+3			number of cells to include
+2			cell IDs...
+5
+8
+
+
+
+
+
+
+
+
+another example...
+calibration targets
+streamflow - daily
+y			monthly streamflow target is active (y/n)
+366			beginning day
+1095			ending day
+2			number of channels to include
+1			channel IDs...
+80
+streamflow - monthly
+n			monthly streamflow target is active (y/n)
+groundwater head - daily
+n			groundwater head target is active (y/n)
+groundwater head - monthly
+y			groundwater head target is active (y/n)
+8			number of observation cells
+13			beginning month
+36			ending month
+3			number of cells to include
+2			cell IDs...
+5
+8

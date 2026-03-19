@@ -1,0 +1,8 @@
+TxtInOut/*_day.txt
+TxtInOut/gwflow_flux*
+TxtInOut/gwflow_state*
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata

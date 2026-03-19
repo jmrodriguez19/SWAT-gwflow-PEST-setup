@@ -1,0 +1,42 @@
+ Groundwater watershed-wide fluxes for each year
+ 
+ watershed area (m2):  7.2682819E+09
+ 
+ Positive value: groundwater added to aquifer
+ Negative value: groundwater removed from aquifer
+ 
+ dvol:      mm   change in groundwater volume during the year
+ rech:      mm   soil water added to groundwater
+ gwet:      mm   groundwater removed by evapotranspiration
+ gwsw:      mm   groundwater discharge to streams
+ swgw:      mm   stream water seepage to groundwater
+ satx:      mm   saturation excess flow (water table above ground)
+ soil:      mm   groundwater transferred to HRU soil profile
+ latl:      mm   groundwater transferred between cells
+ bndr:      mm   groundwater added/removed at watershed boundary
+ ppag:      mm   groundwater pumped for irrigation
+ ppex:      mm   groundwater pumping specified by user
+ tile:      mm   groundwater removed via tile drains
+ resv:      mm   groundwater exchanged with reservoirs
+ wetl:      mm   groundwater outflow to wetlands
+ canl:      mm   canal seepage to groundwater
+ fpln:      mm   floodplain exchange
+ pond:      mm   recharge pond seepage
+ phyt:      mm   phreatophyte transpiration
+ ppdf:      mm   groundwater demand not satisfied for irrigation
+ 
+  year  dvol         rech         gwet         gwsw         swgw         satx         soil         latl         bndr         ppag         ppex         tile         resv         wetl         canl         fpln         pond         phyt         ppdf         
+    2006  -0.2519E+02   0.2006E+02  -0.9122E+00  -0.9598E-01   0.4451E-01  -0.4435E+02   0.0000E+00  -0.8628E-08   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00
+    2007   0.5366E+01   0.7320E+02  -0.9490E+00  -0.9527E-01   0.7255E-01  -0.6737E+02   0.0000E+00  -0.7202E-07   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00
+    2008   0.9547E+01   0.7907E+02  -0.8348E+00  -0.8989E-01   0.1306E+00  -0.6928E+02   0.0000E+00  -0.9941E-07   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00
+    2009  -0.7648E+01   0.6442E+02  -0.1117E+01  -0.8593E-01   0.2573E+00  -0.7169E+02   0.0000E+00  -0.6990E-07   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00
+    2010   0.2230E+02   0.1350E+03  -0.8541E+00  -0.8274E-01   0.6088E+00  -0.1128E+03   0.0000E+00  -0.1851E-06   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00
+    2011  -0.2452E+02   0.4544E+02  -0.1062E+01  -0.6772E-01   0.7141E+00  -0.6988E+02   0.0000E+00  -0.5198E-07   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00
+    2012  -0.2885E+02   0.1528E+02  -0.1037E+01  -0.5734E-01   0.7308E+00  -0.4436E+02   0.0000E+00  -0.1380E-07   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00
+    2013   0.1849E+02   0.9942E+02  -0.9251E+00  -0.6750E-01   0.8340E+00  -0.8144E+02   0.0000E+00  -0.1018E-06   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00
+    2014  -0.1167E+02   0.5464E+02  -0.9025E+00  -0.6272E-01   0.9461E+00  -0.6701E+02   0.0000E+00  -0.6422E-07   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00
+    2015  -0.2195E+02   0.2342E+02  -0.9454E+00  -0.5455E-01   0.9841E+00  -0.4612E+02   0.0000E+00   0.7539E-08   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00
+    2016  -0.2560E+01   0.5045E+02  -0.8382E+00  -0.5698E-01   0.1045E+01  -0.5408E+02   0.0000E+00   0.9925E-08   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00
+    2017  -0.2483E+02   0.1015E+02  -0.9589E+00  -0.4890E-01   0.1051E+01  -0.3596E+02   0.0000E+00   0.1704E-07   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00
+    2018   0.2043E+02   0.8537E+02  -0.7334E+00  -0.5835E-01   0.1182E+01  -0.6632E+02   0.0000E+00  -0.7955E-07   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00
+    2019  -0.1636E+02   0.2823E+02  -0.9815E+00  -0.5234E-01   0.1230E+01  -0.4584E+02   0.0000E+00  -0.1776E-07   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00   0.0000E+00

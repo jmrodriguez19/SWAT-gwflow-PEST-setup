@@ -1,0 +1,4 @@
+ptf #
+parameters.bsn: written by SWAT+ editor v2.1.4 on 2022-11-22 14:57 for SWAT+ rev.60.5.4
+lai_noevap sw_init surq_lag adj_pkrt adj_pkrt_sed lin_sed exp_sed orgn_min n_uptake p_uptake n_perc p_perc p_soil p_avail rsd_decomp pest_perc msk_co1 msk_co2 msk_x nperco_lchtile evap_adj scoef denit_exp denit_frac man_bact adj_uhyd cn_froz dorm_hr plaps tlaps n_fix_max rsd_decay rsd_cover urb_init_abst petco_pmpt uhyd_alpha splash rill surq_exp cov_mgt cha_d50 co2 day_lag_max igen
+3 0 #surq_lag # 1 1 0 1 0 20 20 0.1 10 175 0.4 0.05 0.5 0.75 0.25 0.2 0.5 0.6 1 1.4 1.3 0.15 0 0 0 0 0 20 0.01 0.3 1 1 5 1 0.7 1.2 0.03 50 1.57 0 0
