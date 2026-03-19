@@ -1,10 +1,13 @@
+# Ignorar outputs grandes
 TxtInOut/*_day.txt
 TxtInOut/gwflow_flux*
 TxtInOut/gwflow_state*
 
+# Archivos de R temporales
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# Archivo de proyecto que no quieres subir
 .Rproj.proj
-.gitignore
