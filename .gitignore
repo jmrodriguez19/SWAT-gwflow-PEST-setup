@@ -6,3 +6,5 @@ TxtInOut/gwflow_state*
 .Rhistory
 .RData
 .Ruserdata
+.Rproj.proj
+.gitignore
